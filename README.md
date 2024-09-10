@@ -36,3 +36,20 @@ to use.
 Please walk us though your code and the changes you’ve made to the data and explain the
 potential impact of your assumptions. Think about the most efficient way to address these
 kinds of data issues in the future.
+
+Task 2 – project the portfolio
+Use stochastic methods to project the deaths arising from the new 10’000 policies portfolio
+within next year. Please explain your approach and analyze your results. How would you
+describe and quantify the risks associated with the portfolio? How would you think about
+setting a premium rate which PartnerRe can charge to cover this portfolio over the next year?
+
+Task 3 – build Shiny application (prototype) & present your results in visually
+“attractive” form that can be presented to a non-technical audience.
+Please create a Shiny application that allows for:
+1) Ingestion of the cleansed files
+2) Preview of the high-level summary of the data (e.g. means, medians, distinct values)
+3) Preview of dashboards illustrating sum insured distribution
+Please try to touch on each of the points above. Please be prepared to discuss pros and cons
+of your solutions and different approaches and discuss how would you like to improve the
+code further. Finally, which design choices would you make to minimize time to production
+and ensure re-usability of your code, for example in other Shiny apps?
